@@ -23,7 +23,7 @@ Hosting the application will have some costs.
 If you like the project and have some spare change please donate what you can to help with hosting costs.
 
 Donate via Brave tokens, if you're still not using the brave browser get it [here](https://brave.com/ope894)
-If you are already using brave, just send a tip.
+If you are already using brave, just send a tip. Or you can just send funds directly to the following addresses:
 
 BTC: 15ke8msbYziSNSdJPwkehBcs3RpQBzKPgn
 
