@@ -25,6 +25,8 @@ If you like the project and have some spare change please donate what you can to
 Donate via Brave tokens, if you're still not using the brave browser get it [here](https://brave.com/ope894)
 If you are already using brave, just send a tip.
 
-Bitcoin: 15ke8msbYziSNSdJPwkehBcs3RpQBzKPgn
-Litecoin: LaSaQK3UZ3cuecqXiakqVuY2aSSaakCrJe
+BTC: 15ke8msbYziSNSdJPwkehBcs3RpQBzKPgn
+
+LTC: LaSaQK3UZ3cuecqXiakqVuY2aSSaakCrJe
+
 BAT: 0xdC1e55Cf1D3ED46F77B17264039786f52b2488Eb
