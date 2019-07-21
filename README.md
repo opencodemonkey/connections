@@ -21,3 +21,5 @@ Want to experiment the features? Test run the application and provide feedback.
 
 Hosting the application will have some costs.
 If you like the project and have some spare change please donate what you can to help with hosting costs.
+
+https://brave.com/ope894
